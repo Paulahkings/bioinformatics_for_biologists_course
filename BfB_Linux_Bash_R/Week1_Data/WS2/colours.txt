@@ -1,0 +1,1 @@
+/mnt/c/Users/pkingori/Desktop/bioinformatics_for_biologists/BfB_Linux_Bash_R/Week1_Data/WS1/colours.txt

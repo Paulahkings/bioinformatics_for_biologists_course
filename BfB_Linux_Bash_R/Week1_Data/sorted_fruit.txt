@@ -1,0 +1,10 @@
+apple 
+banana 
+banana 
+grape
+grape 
+melon 
+orange
+pear
+pomegranate 
+satsuma 
